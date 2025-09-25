@@ -1,12 +1,15 @@
-## **VELIXS-BOT**
+## **Maria Multi Device**
 
-### Install
-```bat
+## INSTALL
 1. Rename config.example.js ke config.js
+
 2. Buka file config.js ubah yang perlu aja
+
 3. npm install
+
 4. npm start
-```
+
+_____
 
 ### Commands Options
 ```ts
@@ -46,6 +49,3 @@ Masih Dalam Pengembangan 😺
 
 [Velixs](https://velixs.com)
 
-### Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=ilsyaa/velixs-bot&type=Date)](https://star-history.com/#ilsyaa/velixs-bot&Date)
