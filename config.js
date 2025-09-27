@@ -1,5 +1,5 @@
 module.exports = {
-    sessionName : 'velixsmd',
+    sessionName : 'Maria',
     prefixs : ['!', '#', '/'],
     owner : [
         '6285174902345'
@@ -7,7 +7,7 @@ module.exports = {
     apis : {
         velixs : {
             endpoint : "https://api.velixs.com",
-            apikey : "YOUR_API_KEY"
+            apikey : "8e2946aeb86353004a32806b4e3739b6ded98c5fa68ef411b0"
         }
     },
     
